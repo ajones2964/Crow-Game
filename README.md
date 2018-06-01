@@ -1,6 +1,6 @@
 # Crow Game
 
-
+In a world where Crowe's lands are threatened by aliens enveloping the world in socks. Only you can help him make it to Becky!
 
 ### Markdown
 
