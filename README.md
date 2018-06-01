@@ -2,7 +2,7 @@
 
 ## The Game
 
-Crowe used to live in a happy world, chasing other crows, but then one day aliens came raining down! They're smarter than the crows thought. They knew they're only weakness.. socks.. Only you can help him make it to Becky! You're limited to only being able to being hit 5 times before you lose! To play, click the download link below and once downloaded, run the exe to play!
+Crowe used to live in a happy world, chasing other crows, but then one day aliens came raining down! They're smarter than the crows thought. They knew they're only weakness.. socks.. Only you can help him make it to Becky! You're limited to only being able to being hit 5 times before you lose! To play, click the download link below and once downloaded, open the dist folder then run the exe to play!
 
 ## How to play:
 
