@@ -7,3 +7,5 @@ Crowe used to live in a happy world, chasing other crows, but then one day alien
 ## How to play:
 
 To help Crowe, you have to control his movements. To move back and forwth, you simply use the arrow keys. To shoot, you must use the space bar. Be careful however, because Crowe can only shoot once until he sees that his shot is off the screen.
+
+![alt text](https://github.com/ajones2964/Crow-Game/blob/master/back.png "Game")
